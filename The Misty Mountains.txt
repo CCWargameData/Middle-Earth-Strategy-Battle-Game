@@ -1,0 +1,33 @@
+{
+  "games" : [ {
+    "gameName" : "Middle Earth Strategy Battle Game",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Gwaihir",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heroes",
+        "unitCost" : 150.0,
+        "unitID" : 367,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Great Eagle",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Warriors",
+        "unitCost" : 100.0,
+        "unitID" : 368,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "The Misty Mountains",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Heroes", "Warriors", "Siege Engines" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}

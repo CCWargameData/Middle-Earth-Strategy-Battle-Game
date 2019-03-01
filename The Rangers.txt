@@ -1,0 +1,86 @@
+{
+  "games" : [ {
+    "gameName" : "Middle Earth Strategy Battle Game",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Arathorn",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heroes",
+        "unitCost" : 75.0,
+        "unitID" : 62,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Halbarad",
+        "listOfOptions" : [ {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 66,
+          "optionName" : "Banner of Arwen Evenstar",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 67,
+          "optionName" : "Horse",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heroes",
+        "unitCost" : 70.0,
+        "unitID" : 63,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ranger of the North",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 68,
+          "optionName" : "Horse",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 69,
+          "optionName" : "Spear",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heroes",
+        "unitCost" : 30.0,
+        "unitID" : 64,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Dunedain",
+        "listOfOptions" : [ {
+          "optionCost" : 1.0,
+          "listOfRestrictions" : null,
+          "optionID" : 70,
+          "optionName" : "Spear",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Heroes",
+        "unitCost" : 25.0,
+        "unitID" : 65,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "The Rangers",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Heroes", "Warriors", "Siege Engines" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}
