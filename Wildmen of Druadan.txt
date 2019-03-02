@@ -11,6 +11,7 @@
         "unitCost" : 65.0,
         "unitID" : 278,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Woses Warriors",
@@ -20,6 +21,7 @@
           "optionID" : 280,
           "optionName" : "Additional Woses Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -27,6 +29,7 @@
         "unitCost" : 9.0,
         "unitID" : 279,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

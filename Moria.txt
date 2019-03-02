@@ -11,6 +11,7 @@
         "unitCost" : 350.0,
         "unitID" : 588,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Durburz The Goblin King of Moria",
@@ -20,6 +21,7 @@
         "unitCost" : 70.0,
         "unitID" : 589,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Groblog",
@@ -29,6 +31,7 @@
         "unitCost" : 50.0,
         "unitID" : 590,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Druzhag the Beastcaller",
@@ -38,6 +41,7 @@
         "unitCost" : 90.0,
         "unitID" : 591,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ashrak",
@@ -47,6 +51,7 @@
         "unitCost" : 55.0,
         "unitID" : 592,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Moria Goblin Captain",
@@ -56,6 +61,7 @@
           "optionID" : 365,
           "optionName" : "Orc Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -63,6 +69,7 @@
           "optionID" : 385,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -70,6 +77,7 @@
         "unitCost" : 35.0,
         "unitID" : 593,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Moria Goblin Shaman",
@@ -79,6 +87,7 @@
         "unitCost" : 45.0,
         "unitID" : 594,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Moria Blackshield Captain",
@@ -88,6 +97,7 @@
         "unitCost" : 45.0,
         "unitID" : 595,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Moria Blackshield Shaman",
@@ -97,6 +107,7 @@
         "unitCost" : 50.0,
         "unitID" : 596,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dragon",
@@ -106,6 +117,7 @@
           "optionID" : 394,
           "optionName" : "Breathe Fire",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -113,6 +125,7 @@
           "optionID" : 453,
           "optionName" : "Fly",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -120,6 +133,7 @@
           "optionID" : 490,
           "optionName" : "Tough Hide",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -127,6 +141,7 @@
           "optionID" : 534,
           "optionName" : "Wyrmtongue",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -134,6 +149,7 @@
         "unitCost" : 250.0,
         "unitID" : 597,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cave Drake",
@@ -143,6 +159,7 @@
         "unitCost" : 150.0,
         "unitID" : 598,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Watcher in the Water",
@@ -152,6 +169,7 @@
         "unitCost" : 200.0,
         "unitID" : 599,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Moria Goblin Warrior",
@@ -161,6 +179,7 @@
           "optionID" : 568,
           "optionName" : "Orc Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -168,6 +187,7 @@
           "optionID" : 608,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -175,6 +195,7 @@
           "optionID" : 609,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -182,6 +203,7 @@
         "unitCost" : 4.0,
         "unitID" : 600,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Moria Blackshield",
@@ -191,6 +213,7 @@
           "optionID" : 610,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -198,6 +221,7 @@
         "unitCost" : 8.0,
         "unitID" : 601,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Moria Goblin Drum",
@@ -207,6 +231,7 @@
           "optionID" : 611,
           "optionName" : "Two Drummers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -216,6 +241,7 @@
         "autoAddDictionary" : {
           "611" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Moria Blackshild Drummers",
@@ -225,6 +251,7 @@
           "optionID" : 612,
           "optionName" : "Two Drummers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -234,6 +261,7 @@
         "autoAddDictionary" : {
           "612" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Moria Goblin Powler",
@@ -243,6 +271,7 @@
         "unitCost" : 7.0,
         "unitID" : 604,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bat Swarm",
@@ -252,6 +281,7 @@
         "unitCost" : 35.0,
         "unitID" : 605,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Warg Marauder",
@@ -261,6 +291,7 @@
         "unitCost" : 30.0,
         "unitID" : 606,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dweller in the Dark",
@@ -270,6 +301,7 @@
         "unitCost" : 75.0,
         "unitID" : 607,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

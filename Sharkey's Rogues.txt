@@ -11,6 +11,7 @@
         "unitCost" : 60.0,
         "unitID" : 813,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ruffian",
@@ -20,6 +21,7 @@
           "optionID" : 815,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -27,6 +29,7 @@
           "optionID" : 816,
           "optionName" : "Whip",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -34,6 +37,7 @@
         "unitCost" : 5.0,
         "unitID" : 814,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

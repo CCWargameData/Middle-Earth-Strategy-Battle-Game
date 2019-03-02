@@ -11,6 +11,7 @@
         "unitCost" : 400.0,
         "unitID" : 410,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Witch King of Angmar",
@@ -20,6 +21,7 @@
           "optionID" : 428,
           "optionName" : "Additional Might Point",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -27,6 +29,7 @@
           "optionID" : 429,
           "optionName" : "Additional Will Point",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -34,6 +37,7 @@
           "optionID" : 430,
           "optionName" : "Additional Fate Point",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 70.0,
@@ -41,6 +45,7 @@
           "optionID" : 434,
           "optionName" : "Armoured Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -48,6 +53,7 @@
           "optionID" : 435,
           "optionName" : "Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -55,6 +61,7 @@
           "optionID" : 436,
           "optionName" : "Crown of Morgul",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -62,6 +69,7 @@
           "optionID" : 437,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -69,6 +77,7 @@
           "optionID" : 438,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -76,6 +85,7 @@
           "optionID" : 439,
           "optionName" : "Morgul Blade",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -83,6 +93,7 @@
           "optionID" : 440,
           "optionName" : "Two-handed flail",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -90,6 +101,7 @@
         "unitCost" : 70.0,
         "unitID" : 411,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ringwraith",
@@ -99,6 +111,7 @@
           "optionID" : 431,
           "optionName" : "Additional Fate Point",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -106,6 +119,7 @@
           "optionID" : 432,
           "optionName" : "Additional Might Point",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -113,6 +127,7 @@
           "optionID" : 433,
           "optionName" : "Additional Will Point",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 70.0,
@@ -120,6 +135,7 @@
           "optionID" : 441,
           "optionName" : "Armoured Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -127,6 +143,7 @@
           "optionID" : 442,
           "optionName" : "Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -134,6 +151,7 @@
           "optionID" : 443,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -141,6 +159,7 @@
         "unitCost" : 55.0,
         "unitID" : 412,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shelob",
@@ -150,6 +169,7 @@
         "unitCost" : 90.0,
         "unitID" : 413,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Orc Captain",
@@ -159,6 +179,7 @@
           "optionID" : 444,
           "optionName" : "Warg",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -166,6 +187,7 @@
           "optionID" : 445,
           "optionName" : "Orc Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -173,6 +195,7 @@
           "optionID" : 446,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -180,6 +203,7 @@
         "unitCost" : 40.0,
         "unitID" : 414,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Orc Shaman",
@@ -189,6 +213,7 @@
           "optionID" : 447,
           "optionName" : "Warg",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -196,6 +221,7 @@
         "unitCost" : 50.0,
         "unitID" : 415,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Orc Taskmaster",
@@ -205,6 +231,7 @@
         "unitCost" : 50.0,
         "unitID" : 416,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Orc Drummer",
@@ -214,6 +241,7 @@
         "unitCost" : 30.0,
         "unitID" : 417,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Black Numenorean Marshal",
@@ -223,6 +251,7 @@
           "optionID" : 448,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -230,6 +259,7 @@
           "optionID" : 449,
           "optionName" : "Lance",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -237,6 +267,7 @@
           "optionID" : 450,
           "optionName" : "Two-handed Weapon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -244,6 +275,7 @@
         "unitCost" : 65.0,
         "unitID" : 418,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mordor Troll Chieftain",
@@ -253,6 +285,7 @@
         "unitCost" : 140.0,
         "unitID" : 419,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Orc Warrior",
@@ -262,6 +295,7 @@
           "optionID" : 451,
           "optionName" : "Additional Orc Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -269,6 +303,7 @@
           "optionID" : 457,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -276,6 +311,7 @@
           "optionID" : 458,
           "optionName" : "Orc Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -283,6 +319,7 @@
           "optionID" : 459,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -290,6 +327,7 @@
           "optionID" : 460,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -297,6 +335,7 @@
         "unitCost" : 5.0,
         "unitID" : 420,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Orc Tracker",
@@ -306,6 +345,7 @@
           "optionID" : 452,
           "optionName" : "Additional Orc Tracker",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 7.0,
@@ -313,6 +353,7 @@
           "optionID" : 461,
           "optionName" : "Warg",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -320,6 +361,7 @@
         "unitCost" : 5.0,
         "unitID" : 421,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Warg Rider",
@@ -329,6 +371,7 @@
           "optionID" : 454,
           "optionName" : "Additional Warg Rider",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -336,6 +379,7 @@
           "optionID" : 462,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -343,6 +387,7 @@
           "optionID" : 463,
           "optionName" : "Orc Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -350,6 +395,7 @@
           "optionID" : 464,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -357,6 +403,7 @@
           "optionID" : 465,
           "optionName" : "Throwing Spears",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -364,6 +411,7 @@
         "unitCost" : 11.0,
         "unitID" : 422,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Black Numenorean",
@@ -373,6 +421,7 @@
           "optionID" : 455,
           "optionName" : "Additional Black Numenorean",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -380,6 +429,7 @@
           "optionID" : 466,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -387,6 +437,7 @@
           "optionID" : 467,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -394,6 +445,7 @@
         "unitCost" : 9.0,
         "unitID" : 423,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morgul Knight",
@@ -403,6 +455,7 @@
           "optionID" : 456,
           "optionName" : "Additional Morgul Knight",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -410,6 +463,7 @@
           "optionID" : 468,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -417,6 +471,7 @@
           "optionID" : 469,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -424,6 +479,7 @@
         "unitCost" : 18.0,
         "unitID" : 424,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mordor Troll",
@@ -433,6 +489,7 @@
           "optionID" : 470,
           "optionName" : "Mordor War Drum",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -440,6 +497,7 @@
         "unitCost" : 100.0,
         "unitID" : 425,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mordor Siege Bow",
@@ -449,6 +507,7 @@
           "optionID" : 471,
           "optionName" : "Orc Engineer Captain",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -456,6 +515,7 @@
           "optionID" : 474,
           "optionName" : "Flaming Ammunition",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -463,6 +523,7 @@
           "optionID" : 475,
           "optionName" : "Additional Crew",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -470,6 +531,7 @@
         "unitCost" : 50.0,
         "unitID" : 426,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mordor War Catapult",
@@ -479,6 +541,7 @@
           "optionID" : 472,
           "optionName" : "Orc Engineer Captain",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -486,6 +549,7 @@
           "optionID" : 473,
           "optionName" : "Flaming Ammunition",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -493,6 +557,7 @@
           "optionID" : 476,
           "optionName" : "Additional Crew",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -500,6 +565,7 @@
           "optionID" : 477,
           "optionName" : "Severed Heads",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -507,6 +573,7 @@
         "unitCost" : 160.0,
         "unitID" : 427,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

@@ -11,6 +11,7 @@
           "optionID" : 336,
           "optionName" : "Mirrior of Galadriel",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -18,6 +19,7 @@
         "unitCost" : 130.0,
         "unitID" : 323,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Celeborn",
@@ -27,6 +29,7 @@
           "optionID" : 338,
           "optionName" : "Heavy Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -34,6 +37,7 @@
           "optionID" : 339,
           "optionName" : "Elven-made Hand-and-a-half Sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -41,6 +45,7 @@
           "optionID" : 340,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -48,6 +53,7 @@
         "unitCost" : 130.0,
         "unitID" : 324,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rumil",
@@ -57,6 +63,7 @@
           "optionID" : 341,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -64,6 +71,7 @@
         "unitCost" : 85.0,
         "unitID" : 325,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Haldir",
@@ -73,6 +81,7 @@
           "optionID" : 342,
           "optionName" : "Heavy Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -80,6 +89,7 @@
           "optionID" : 343,
           "optionName" : "Elf Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -87,6 +97,7 @@
           "optionID" : 344,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -94,6 +105,7 @@
         "unitCost" : 70.0,
         "unitID" : 326,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Galadhrim Captain",
@@ -103,6 +115,7 @@
           "optionID" : 345,
           "optionName" : "Elf Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -110,6 +123,7 @@
           "optionID" : 346,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -117,6 +131,7 @@
           "optionID" : 347,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -124,6 +139,7 @@
         "unitCost" : 70.0,
         "unitID" : 327,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wood Elf Captain",
@@ -133,6 +149,7 @@
           "optionID" : 348,
           "optionName" : "Elf Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -140,6 +157,7 @@
           "optionID" : 349,
           "optionName" : "Throwing Daggers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -147,6 +165,7 @@
           "optionID" : 350,
           "optionName" : "Wood Elf Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -154,6 +173,7 @@
         "unitCost" : 65.0,
         "unitID" : 329,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Galadhrim Stormcaller",
@@ -163,6 +183,7 @@
         "unitCost" : 60.0,
         "unitID" : 330,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Galadhrim Warrior",
@@ -172,6 +193,7 @@
           "optionID" : 337,
           "optionName" : "Upgrade to Galadhrim Guard",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 9.0,
@@ -179,6 +201,7 @@
           "optionID" : 351,
           "optionName" : "Additional Galadhrim Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -186,6 +209,7 @@
           "optionID" : 356,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -193,6 +217,7 @@
           "optionID" : 357,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -200,6 +225,7 @@
           "optionID" : 358,
           "optionName" : "Elf Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -207,6 +233,7 @@
           "optionID" : 359,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -214,6 +241,7 @@
           "optionID" : 360,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -221,6 +249,7 @@
         "unitCost" : 9.0,
         "unitID" : 331,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Galadhrim Knight",
@@ -230,6 +259,7 @@
           "optionID" : 352,
           "optionName" : "Additional Galadhrim Knight",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -237,6 +267,7 @@
           "optionID" : 361,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -244,6 +275,7 @@
           "optionID" : 362,
           "optionName" : "Elf Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -251,6 +283,7 @@
           "optionID" : 363,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -258,6 +291,7 @@
         "unitCost" : 18.0,
         "unitID" : 332,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Guard of the Galadhrim Court",
@@ -267,6 +301,7 @@
           "optionID" : 353,
           "optionName" : "Additional Guard of the Galadhrim Court",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -274,6 +309,7 @@
           "optionID" : 139,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -281,6 +317,7 @@
         "unitCost" : 12.0,
         "unitID" : 333,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wood Elf Warrior",
@@ -290,6 +327,7 @@
           "optionID" : 354,
           "optionName" : "Additional Wood Elf Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -297,6 +335,7 @@
           "optionID" : 143,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -304,6 +343,7 @@
           "optionID" : 223,
           "optionName" : "Elf Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -311,6 +351,7 @@
           "optionID" : 250,
           "optionName" : "Throwing Daggers",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -318,6 +359,7 @@
           "optionID" : 262,
           "optionName" : "Wood Elf Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -325,6 +367,7 @@
         "unitCost" : 8.0,
         "unitID" : 334,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wood Elf Sentinel",
@@ -334,6 +377,7 @@
           "optionID" : 355,
           "optionName" : "Additional Wood Elf Sentinel",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -341,6 +385,7 @@
         "unitCost" : 25.0,
         "unitID" : 335,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

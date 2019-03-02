@@ -11,6 +11,7 @@
         "unitCost" : 190.0,
         "unitID" : 328,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ent",
@@ -20,6 +21,7 @@
         "unitCost" : 120.0,
         "unitID" : 366,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

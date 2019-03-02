@@ -11,6 +11,7 @@
           "optionID" : 636,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -18,6 +19,7 @@
         "unitCost" : 180.0,
         "unitID" : 613,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grima Wormtongue",
@@ -27,6 +29,7 @@
           "optionID" : 637,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -34,6 +37,7 @@
         "unitCost" : 25.0,
         "unitID" : 614,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lurtz",
@@ -43,6 +47,7 @@
           "optionID" : 638,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -50,6 +55,7 @@
         "unitCost" : 90.0,
         "unitID" : 615,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ugluk",
@@ -59,6 +65,7 @@
         "unitCost" : 65.0,
         "unitID" : 616,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Sharku",
@@ -68,6 +75,7 @@
           "optionID" : 639,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -75,6 +83,7 @@
           "optionID" : 641,
           "optionName" : "Warg",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -82,6 +91,7 @@
         "unitCost" : 50.0,
         "unitID" : 617,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Vrasku",
@@ -91,6 +101,7 @@
         "unitCost" : 65.0,
         "unitID" : 618,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mauhur",
@@ -100,6 +111,7 @@
         "unitCost" : 60.0,
         "unitID" : 619,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Thrydan Wolfsbane",
@@ -109,6 +121,7 @@
           "optionID" : 642,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -116,6 +129,7 @@
         "unitCost" : 85.0,
         "unitID" : 620,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Uruk-Hai Captain",
@@ -125,6 +139,7 @@
           "optionID" : 643,
           "optionName" : "Crossbow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -132,6 +147,7 @@
           "optionID" : 645,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -139,6 +155,7 @@
           "optionID" : 646,
           "optionName" : "Two-handed Weapon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -146,6 +163,7 @@
         "unitCost" : 60.0,
         "unitID" : 621,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Uruk-Hai Scout Captain",
@@ -155,6 +173,7 @@
           "optionID" : 647,
           "optionName" : "Two-handed Weapon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -162,6 +181,7 @@
           "optionID" : 648,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -169,6 +189,7 @@
           "optionID" : 649,
           "optionName" : "Uruk-Hai Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -176,6 +197,7 @@
         "unitCost" : 55.0,
         "unitID" : 622,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Uruk-Hai Shaman",
@@ -185,6 +207,7 @@
           "optionID" : 650,
           "optionName" : "Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -192,6 +215,7 @@
         "unitCost" : 50.0,
         "unitID" : 623,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Uruk-Hai Drummer",
@@ -201,6 +225,7 @@
         "unitCost" : 35.0,
         "unitID" : 624,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dunlending Chieftain",
@@ -210,6 +235,7 @@
           "optionID" : 651,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -217,6 +243,7 @@
           "optionID" : 652,
           "optionName" : "Axe and Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -224,6 +251,7 @@
         "unitCost" : 55.0,
         "unitID" : 625,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Uruk-Hai Scout",
@@ -233,6 +261,7 @@
           "optionID" : 653,
           "optionName" : "Additional Uruk-Hai Scout",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -240,6 +269,7 @@
           "optionID" : 659,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -247,6 +277,7 @@
           "optionID" : 660,
           "optionName" : "Uruk-Hai Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -254,6 +285,7 @@
           "optionID" : 661,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -261,6 +293,7 @@
           "optionID" : 668,
           "optionName" : "Upgrade to Marauder",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -268,6 +301,7 @@
         "unitCost" : 8.0,
         "unitID" : 626,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Uruk-Hai Warrior",
@@ -277,6 +311,7 @@
           "optionID" : 654,
           "optionName" : "Additional Uruk-Hai Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -284,6 +319,7 @@
           "optionID" : 662,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -291,6 +327,7 @@
           "optionID" : 663,
           "optionName" : "Pike",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -298,6 +335,7 @@
           "optionID" : 664,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -305,6 +343,7 @@
           "optionID" : 665,
           "optionName" : "Crossbow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -312,6 +351,7 @@
         "unitCost" : 9.0,
         "unitID" : 627,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Isengard Troll",
@@ -321,6 +361,7 @@
           "optionID" : 666,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -328,6 +369,7 @@
           "optionID" : 667,
           "optionName" : "Isendard War Drum",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -335,6 +377,7 @@
         "unitCost" : 110.0,
         "unitID" : 628,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Uruk-Hai Berserker",
@@ -344,6 +387,7 @@
           "optionID" : 655,
           "optionName" : "Additional Uruk-Hai Berserker",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -351,6 +395,7 @@
         "unitCost" : 15.0,
         "unitID" : 629,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Feral Uruk-Hai",
@@ -360,6 +405,7 @@
           "optionID" : 656,
           "optionName" : "Additional Feral Uruk-Hai",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -367,6 +413,7 @@
         "unitCost" : 13.0,
         "unitID" : 630,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dunlending Warrior",
@@ -376,6 +423,7 @@
           "optionID" : 657,
           "optionName" : "Additional Dunlanding Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -383,6 +431,7 @@
           "optionID" : 669,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -390,6 +439,7 @@
           "optionID" : 670,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -397,6 +447,7 @@
           "optionID" : 671,
           "optionName" : "Dagger & Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -404,6 +455,7 @@
           "optionID" : 672,
           "optionName" : "Two-handed Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -411,6 +463,7 @@
         "unitCost" : 7.0,
         "unitID" : 632,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Wild Man of Dunland",
@@ -420,6 +473,7 @@
           "optionID" : 658,
           "optionName" : "Additional Wild Man of Dunland",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -427,6 +481,7 @@
           "optionID" : 673,
           "optionName" : "Two-handed Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -434,6 +489,7 @@
         "unitCost" : 5.0,
         "unitID" : 633,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Uruk-Hai Demolition Team",
@@ -443,6 +499,7 @@
           "optionID" : 674,
           "optionName" : "Flaming Brand",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -450,6 +507,7 @@
         "unitCost" : 80.0,
         "unitID" : 634,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Isengard Assault Ballista",
@@ -459,6 +517,7 @@
           "optionID" : 675,
           "optionName" : "Uruk-Hai Engineer Captain",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 9.0,
@@ -466,6 +525,7 @@
           "optionID" : 677,
           "optionName" : "Additional Crew",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -473,6 +533,7 @@
           "optionID" : 678,
           "optionName" : "Superior Construction",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -480,6 +541,7 @@
         "unitCost" : 65.0,
         "unitID" : 635,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

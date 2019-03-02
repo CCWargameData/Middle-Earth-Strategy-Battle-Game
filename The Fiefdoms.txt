@@ -11,6 +11,7 @@
           "optionID" : 176,
           "optionName" : "Amoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -18,6 +19,7 @@
           "optionID" : 177,
           "optionName" : "Lance",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -25,6 +27,7 @@
         "unitCost" : 140.0,
         "unitID" : 166,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Forlong the Fat",
@@ -34,6 +37,7 @@
           "optionID" : 178,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -41,6 +45,7 @@
         "unitCost" : 80.0,
         "unitID" : 167,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Angbor the Fearless",
@@ -50,6 +55,7 @@
         "unitCost" : 65.0,
         "unitID" : 168,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Duinhir",
@@ -59,6 +65,7 @@
         "unitCost" : 60.0,
         "unitID" : 169,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Captain of Dol Amroth",
@@ -68,6 +75,7 @@
           "optionID" : 179,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -75,6 +83,7 @@
           "optionID" : 180,
           "optionName" : "Lance",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -82,6 +91,7 @@
         "unitCost" : 65.0,
         "unitID" : 170,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Knight of Dol Amroth",
@@ -91,6 +101,7 @@
           "optionID" : 181,
           "optionName" : "Additional Knight of Dol Amroth",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -98,6 +109,7 @@
           "optionID" : 186,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -105,6 +117,7 @@
           "optionID" : 187,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 8.0,
@@ -112,6 +125,7 @@
           "optionID" : 188,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -119,6 +133,7 @@
           "optionID" : 189,
           "optionName" : "Lance",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -126,6 +141,7 @@
         "unitCost" : 11.0,
         "unitID" : 171,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Man-At-Arms of Dol Amroth",
@@ -135,6 +151,7 @@
           "optionID" : 182,
           "optionName" : "Additional Man-At-Arms of Dol Amroth",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -142,6 +159,7 @@
           "optionID" : 190,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -149,6 +167,7 @@
         "unitCost" : 9.0,
         "unitID" : 172,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Axeman of Lossarnach",
@@ -158,6 +177,7 @@
           "optionID" : 183,
           "optionName" : "Additional Axeman of Lossarnach",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -165,6 +185,7 @@
           "optionID" : 191,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -172,6 +193,7 @@
         "unitCost" : 9.0,
         "unitID" : 173,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Clansmen of Lamedon",
@@ -181,6 +203,7 @@
           "optionID" : 184,
           "optionName" : "Additional Clansman of Lamedon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -188,6 +211,7 @@
         "unitCost" : 8.0,
         "unitID" : 174,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Blackroot Vale Archer",
@@ -197,6 +221,7 @@
           "optionID" : 185,
           "optionName" : "Additional Blackroot Vale Archer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -204,6 +229,7 @@
           "optionID" : 192,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -211,6 +237,7 @@
           "optionID" : 193,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -218,6 +245,7 @@
           "optionID" : 194,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -225,6 +253,7 @@
         "unitCost" : 8.0,
         "unitID" : 175,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

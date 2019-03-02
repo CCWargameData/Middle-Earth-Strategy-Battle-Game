@@ -11,6 +11,7 @@
           "optionID" : 705,
           "optionName" : "Khandish Chariot",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -18,6 +19,7 @@
           "optionID" : 707,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -25,6 +27,7 @@
         "unitCost" : 95.0,
         "unitID" : 700,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Khandish Chieftain",
@@ -34,6 +37,7 @@
           "optionID" : 706,
           "optionName" : "Khandish Chariot",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -41,6 +45,7 @@
           "optionID" : 708,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -48,6 +53,7 @@
         "unitCost" : 55.0,
         "unitID" : 701,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Khandish Warrior",
@@ -57,6 +63,7 @@
           "optionID" : 709,
           "optionName" : "Additional Khandish Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -64,6 +71,7 @@
           "optionID" : 714,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -71,6 +79,7 @@
         "unitCost" : 8.0,
         "unitID" : 702,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Khandish Horseman",
@@ -80,6 +89,7 @@
           "optionID" : 711,
           "optionName" : "Additional Khandish Horseman",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -87,6 +97,7 @@
         "unitCost" : 13.0,
         "unitID" : 703,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Khandish Charioteer",
@@ -96,6 +107,7 @@
           "optionID" : 712,
           "optionName" : "Additional Khandish Charioteer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -103,6 +115,7 @@
           "optionID" : 715,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -110,6 +123,7 @@
         "unitCost" : 30.0,
         "unitID" : 704,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

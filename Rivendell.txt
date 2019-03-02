@@ -11,6 +11,7 @@
           "optionID" : 294,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -18,6 +19,7 @@
           "optionID" : 295,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -25,6 +27,7 @@
         "unitCost" : 170.0,
         "unitID" : 281,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Elrond, Master of Rivendell",
@@ -34,6 +37,7 @@
           "optionID" : 296,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -41,6 +45,7 @@
           "optionID" : 297,
           "optionName" : "Heavy Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -48,6 +53,7 @@
         "unitCost" : 170.0,
         "unitID" : 282,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Glorfindel, Lord of the West",
@@ -57,6 +63,7 @@
           "optionID" : 298,
           "optionName" : "Armour of Gondolin",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -64,6 +71,7 @@
           "optionID" : 299,
           "optionName" : "Asfaloth",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -71,6 +79,7 @@
         "unitCost" : 145.0,
         "unitID" : 283,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Erestor",
@@ -80,6 +89,7 @@
         "unitCost" : 85.0,
         "unitID" : 284,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Arwen Undomiel",
@@ -89,6 +99,7 @@
           "optionID" : 300,
           "optionName" : "Asfaloth",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -96,6 +107,7 @@
           "optionID" : 301,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -103,6 +115,7 @@
           "optionID" : 302,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -110,6 +123,7 @@
         "unitCost" : 60.0,
         "unitID" : 285,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Elladan & Elrohir",
@@ -119,6 +133,7 @@
           "optionID" : 303,
           "optionName" : "Horses",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -126,6 +141,7 @@
           "optionID" : 304,
           "optionName" : "Elf Bows",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -133,6 +149,7 @@
           "optionID" : 305,
           "optionName" : "Elven Cloaks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -140,6 +157,7 @@
           "optionID" : 306,
           "optionName" : "Heavy Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -147,6 +165,7 @@
         "unitCost" : 160.0,
         "unitID" : 286,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lindir of Rivendell",
@@ -156,6 +175,7 @@
           "optionID" : 307,
           "optionName" : "Heavy Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -163,6 +183,7 @@
           "optionID" : 308,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -170,6 +191,7 @@
         "unitCost" : 65.0,
         "unitID" : 287,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Cirdan",
@@ -179,6 +201,7 @@
         "unitCost" : 80.0,
         "unitID" : 288,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gildor Inglorion",
@@ -188,6 +211,7 @@
           "optionID" : 309,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -195,6 +219,7 @@
           "optionID" : 310,
           "optionName" : "Elf Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -202,6 +227,7 @@
           "optionID" : 311,
           "optionName" : "Lance",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -209,6 +235,7 @@
           "optionID" : 312,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -216,6 +243,7 @@
         "unitCost" : 70.0,
         "unitID" : 289,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "High Elf Captain",
@@ -225,6 +253,7 @@
         "unitCost" : 75.0,
         "unitID" : 290,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "High Elf Stormcaller",
@@ -234,6 +263,7 @@
         "unitCost" : 60.0,
         "unitID" : 291,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "High Elf Warrior",
@@ -243,6 +273,7 @@
           "optionID" : 313,
           "optionName" : "Additional High Elf Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -250,6 +281,7 @@
           "optionID" : 315,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -257,6 +289,7 @@
           "optionID" : 316,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -264,6 +297,7 @@
           "optionID" : 317,
           "optionName" : "Elf Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -271,6 +305,7 @@
           "optionID" : 318,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -278,6 +313,7 @@
           "optionID" : 319,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -285,6 +321,7 @@
         "unitCost" : 9.0,
         "unitID" : 292,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rivendell Knight",
@@ -294,6 +331,7 @@
           "optionID" : 314,
           "optionName" : "Additional Rivendell Knight",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -301,6 +339,7 @@
           "optionID" : 320,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -308,6 +347,7 @@
           "optionID" : 321,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -315,6 +355,7 @@
           "optionID" : 322,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -322,6 +363,7 @@
         "unitCost" : 21.0,
         "unitID" : 293,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

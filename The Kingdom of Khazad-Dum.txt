@@ -11,6 +11,7 @@
         "unitCost" : 160.0,
         "unitID" : 369,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mardin",
@@ -20,6 +21,7 @@
         "unitCost" : 75.0,
         "unitID" : 370,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Floi Stonehand",
@@ -29,6 +31,7 @@
         "unitCost" : 75.0,
         "unitID" : 371,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Balin the Dwarf, King of Moria",
@@ -38,6 +41,7 @@
         "unitCost" : 110.0,
         "unitID" : 372,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dwarf King",
@@ -47,6 +51,7 @@
           "optionID" : 384,
           "optionName" : "Throwing Axes",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -54,6 +59,7 @@
           "optionID" : 386,
           "optionName" : "Two-handed Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -61,6 +67,7 @@
         "unitCost" : 75.0,
         "unitID" : 373,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dwarf Captain",
@@ -70,6 +77,7 @@
           "optionID" : 387,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -77,6 +85,7 @@
           "optionID" : 388,
           "optionName" : "Throwing Axes",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -84,6 +93,7 @@
           "optionID" : 389,
           "optionName" : "Two-handed Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -91,6 +101,7 @@
         "unitCost" : 60.0,
         "unitID" : 374,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "King's Champion",
@@ -100,6 +111,7 @@
           "optionID" : 390,
           "optionName" : "Two Heralds",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -109,6 +121,7 @@
         "autoAddDictionary" : {
           "390" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shieldbearer",
@@ -118,6 +131,7 @@
         "unitCost" : 60.0,
         "unitID" : 376,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dwarf Warrior",
@@ -127,6 +141,7 @@
           "optionID" : 391,
           "optionName" : "Additional Dwarf Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -134,6 +149,7 @@
           "optionID" : 396,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -141,6 +157,7 @@
           "optionID" : 397,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -148,6 +165,7 @@
           "optionID" : 398,
           "optionName" : "Dwarf Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -155,6 +173,7 @@
           "optionID" : 399,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -162,6 +181,7 @@
           "optionID" : 400,
           "optionName" : "Two-handed Axe & Dagger",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -169,6 +189,7 @@
         "unitCost" : 8.0,
         "unitID" : 377,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Khazad Guard",
@@ -178,6 +199,7 @@
           "optionID" : 383,
           "optionName" : "Upgrade to Hearthguard",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 11.0,
@@ -185,6 +207,7 @@
           "optionID" : 392,
           "optionName" : "Additional Khazad Guard",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -192,6 +215,7 @@
         "unitCost" : 11.0,
         "unitID" : 378,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Iron Guard",
@@ -201,6 +225,7 @@
           "optionID" : 393,
           "optionName" : "Additional Iron Guard",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -208,6 +233,7 @@
         "unitCost" : 15.0,
         "unitID" : 379,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dwarf Ranger",
@@ -217,6 +243,7 @@
           "optionID" : 395,
           "optionName" : "Additional Dwarf Ranger",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -224,6 +251,7 @@
           "optionID" : 401,
           "optionName" : "Dwarf Long Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -231,6 +259,7 @@
           "optionID" : 402,
           "optionName" : "Throwing Axes",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -238,6 +267,7 @@
           "optionID" : 403,
           "optionName" : "Two-Handed Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -245,6 +275,7 @@
         "unitCost" : 8.0,
         "unitID" : 380,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Vault Warden Team",
@@ -254,6 +285,7 @@
         "unitCost" : 25.0,
         "unitID" : 381,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dwarf Ballista",
@@ -263,6 +295,7 @@
           "optionID" : 404,
           "optionName" : "Dwarf Engineer Captain",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -270,6 +303,7 @@
           "optionID" : 405,
           "optionName" : "Flaming Ammunition",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 8.0,
@@ -277,6 +311,7 @@
           "optionID" : 406,
           "optionName" : "Additional Crew",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -284,6 +319,7 @@
         "unitCost" : 60.0,
         "unitID" : 382,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

@@ -11,6 +11,7 @@
         "unitCost" : 90.0,
         "unitID" : 789,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Corsair Captain",
@@ -20,6 +21,7 @@
           "optionID" : 795,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -27,6 +29,7 @@
           "optionID" : 796,
           "optionName" : "Crossbow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -34,6 +37,7 @@
           "optionID" : 797,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -41,6 +45,7 @@
           "optionID" : 798,
           "optionName" : "Two-handed Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -48,6 +53,7 @@
         "unitCost" : 50.0,
         "unitID" : 790,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Corsair Bo'sun",
@@ -57,6 +63,7 @@
           "optionID" : 800,
           "optionName" : "Two-handed Axe",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -64,6 +71,7 @@
           "optionID" : 801,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -71,6 +79,7 @@
           "optionID" : 802,
           "optionName" : "Crossbow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -78,6 +87,7 @@
           "optionID" : 803,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -85,6 +95,7 @@
           "optionID" : 804,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -92,6 +103,7 @@
         "unitCost" : 45.0,
         "unitID" : 791,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Corsair of Umbar",
@@ -101,6 +113,7 @@
           "optionID" : 806,
           "optionName" : "Additional Corsair of Umbar",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -108,6 +121,7 @@
           "optionID" : 810,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -115,6 +129,7 @@
           "optionID" : 811,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -122,6 +137,7 @@
           "optionID" : 812,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -129,6 +145,7 @@
         "unitCost" : 7.0,
         "unitID" : 792,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Corsair Reaver",
@@ -138,6 +155,7 @@
           "optionID" : 808,
           "optionName" : "Additional Corsair Reaver",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -145,6 +163,7 @@
         "unitCost" : 9.0,
         "unitID" : 793,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Corsair Arbalester",
@@ -154,6 +173,7 @@
           "optionID" : 809,
           "optionName" : "Additional Corsair Arbalester",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -161,6 +181,7 @@
         "unitCost" : 10.0,
         "unitID" : 794,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

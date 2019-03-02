@@ -11,6 +11,7 @@
         "unitCost" : 75.0,
         "unitID" : 62,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Halbarad",
@@ -20,6 +21,7 @@
           "optionID" : 66,
           "optionName" : "Banner of Arwen Evenstar",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -27,6 +29,7 @@
           "optionID" : 67,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -34,6 +37,7 @@
         "unitCost" : 70.0,
         "unitID" : 63,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ranger of the North",
@@ -43,6 +47,7 @@
           "optionID" : 68,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -50,6 +55,7 @@
           "optionID" : 69,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -57,6 +63,7 @@
         "unitCost" : 30.0,
         "unitID" : 64,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Dunedain",
@@ -66,6 +73,7 @@
           "optionID" : 70,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -73,6 +81,7 @@
         "unitCost" : 25.0,
         "unitID" : 65,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

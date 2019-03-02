@@ -11,6 +11,7 @@
           "optionID" : 729,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -18,6 +19,7 @@
           "optionID" : 730,
           "optionName" : "Bow with Poisioned Arrows",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -25,6 +27,7 @@
         "unitCost" : 100.0,
         "unitID" : 716,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Haradrim King",
@@ -34,6 +37,7 @@
           "optionID" : 731,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -41,6 +45,7 @@
           "optionID" : 732,
           "optionName" : "Bow with Poisioned Arrows",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -48,6 +53,7 @@
           "optionID" : 733,
           "optionName" : "War Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -55,6 +61,7 @@
         "unitCost" : 60.0,
         "unitID" : 717,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Golden King of Abrakhan",
@@ -64,6 +71,7 @@
         "unitCost" : 130.0,
         "unitID" : 718,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hasharin",
@@ -73,6 +81,7 @@
         "unitCost" : 80.0,
         "unitID" : 719,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Haradrim Chieftain",
@@ -82,6 +91,7 @@
           "optionID" : 734,
           "optionName" : "Bow with Poisioned Arrows",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -89,6 +99,7 @@
           "optionID" : 735,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -96,6 +107,7 @@
         "unitCost" : 50.0,
         "unitID" : 720,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "War Mumak of Harad",
@@ -105,6 +117,7 @@
           "optionID" : 737,
           "optionName" : "Gnarled Hide",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -112,6 +125,7 @@
           "optionID" : 738,
           "optionName" : "Mahud Beastmaster Chieftain",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -119,6 +133,7 @@
           "optionID" : 739,
           "optionName" : "Rocks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -126,6 +141,7 @@
           "optionID" : 740,
           "optionName" : "Sigils of Defiance",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -133,6 +149,7 @@
           "optionID" : 741,
           "optionName" : "Tusk Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -140,6 +157,7 @@
           "optionID" : 742,
           "optionName" : "Foul Temperament",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -147,6 +165,7 @@
           "optionID" : 743,
           "optionName" : "Rapelling Lines",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -154,6 +173,7 @@
         "unitCost" : 275.0,
         "unitID" : 721,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Haradrim Taskmaster",
@@ -163,6 +183,7 @@
         "unitCost" : 50.0,
         "unitID" : 722,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Haradrim Warrior",
@@ -172,6 +193,7 @@
           "optionID" : 744,
           "optionName" : "Additional Haradrim Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -179,6 +201,7 @@
           "optionID" : 750,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -186,6 +209,7 @@
           "optionID" : 751,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -193,6 +217,7 @@
           "optionID" : 753,
           "optionName" : "Bow with Poisioned Arrows",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -200,6 +225,7 @@
           "optionID" : 755,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -207,6 +233,7 @@
         "unitCost" : 6.0,
         "unitID" : 723,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Haradrim Raider",
@@ -216,6 +243,7 @@
           "optionID" : 745,
           "optionName" : "Additional Haradrim Raider",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -223,6 +251,7 @@
           "optionID" : 752,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -230,6 +259,7 @@
           "optionID" : 754,
           "optionName" : "Bow with Poisioned Arrows",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -237,6 +267,7 @@
           "optionID" : 756,
           "optionName" : "War Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -244,6 +275,7 @@
         "unitCost" : 11.0,
         "unitID" : 724,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Serpent Guard",
@@ -253,6 +285,7 @@
           "optionID" : 746,
           "optionName" : "Additional Serpent Guard",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -260,6 +293,7 @@
         "unitCost" : 8.0,
         "unitID" : 725,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Serpent Rider",
@@ -269,6 +303,7 @@
           "optionID" : 747,
           "optionName" : "Additional Serpent Rider",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -276,6 +311,7 @@
         "unitCost" : 13.0,
         "unitID" : 726,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Watcher of Karna",
@@ -285,6 +321,7 @@
           "optionID" : 748,
           "optionName" : "Additional Watcher of Karna",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -292,6 +329,7 @@
           "optionID" : 757,
           "optionName" : "Bow with Poisioned Arrows",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -299,6 +337,7 @@
           "optionID" : 758,
           "optionName" : "Twin Blades",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -306,6 +345,7 @@
         "unitCost" : 9.0,
         "unitID" : 727,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Abrakhan Merchent Guard",
@@ -315,6 +355,7 @@
           "optionID" : 749,
           "optionName" : "Additional Abrakhan Merchant Guard",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -322,6 +363,7 @@
         "unitCost" : 9.0,
         "unitID" : 728,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

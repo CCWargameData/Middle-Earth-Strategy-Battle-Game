@@ -11,6 +11,7 @@
           "optionID" : 45,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -18,6 +19,7 @@
           "optionID" : 49,
           "optionName" : "Pony",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -25,6 +27,7 @@
         "unitCost" : 60.0,
         "unitID" : 32,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Samwise the Brave",
@@ -34,6 +37,7 @@
           "optionID" : 46,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -41,6 +45,7 @@
           "optionID" : 50,
           "optionName" : "Pony",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -48,6 +53,7 @@
         "unitCost" : 45.0,
         "unitID" : 33,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Meriadoc, Captain of the Shire",
@@ -57,6 +63,7 @@
           "optionID" : 47,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -64,6 +71,7 @@
           "optionID" : 51,
           "optionName" : "Pony",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -71,6 +79,7 @@
           "optionID" : 53,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -78,6 +87,7 @@
         "unitCost" : 45.0,
         "unitID" : 34,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Peregrin, Captain of the Shire",
@@ -87,6 +97,7 @@
           "optionID" : 48,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -94,6 +105,7 @@
           "optionID" : 52,
           "optionName" : "Pony",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -101,6 +113,7 @@
           "optionID" : 54,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -108,6 +121,7 @@
         "unitCost" : 45.0,
         "unitID" : 35,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Paladin Took",
@@ -117,6 +131,7 @@
         "unitCost" : 25.0,
         "unitID" : 36,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Farmer Maggot",
@@ -126,6 +141,7 @@
           "optionID" : 57,
           "optionName" : "Grip, Fang & Wolf",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -135,6 +151,7 @@
         "autoAddDictionary" : {
           "57" : "1"
         },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Lobelia Sackville-Baggins",
@@ -144,6 +161,7 @@
         "unitCost" : 15.0,
         "unitID" : 38,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Fredegar Bolger",
@@ -153,6 +171,7 @@
         "unitCost" : 10.0,
         "unitID" : 39,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bilbo Baggins",
@@ -162,6 +181,7 @@
           "optionID" : 58,
           "optionName" : "Mithril Coat",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -169,6 +189,7 @@
           "optionID" : 59,
           "optionName" : "Sting",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 0.0,
@@ -176,6 +197,7 @@
           "optionID" : 60,
           "optionName" : "The Ring",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -183,6 +205,7 @@
         "unitCost" : 40.0,
         "unitID" : 40,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bandobras Took",
@@ -192,6 +215,7 @@
         "unitCost" : 40.0,
         "unitID" : 41,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hobbit Militia",
@@ -201,6 +225,7 @@
           "optionID" : 55,
           "optionName" : "Upgrade to Battlin' Brandybucks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 4.0,
@@ -208,6 +233,7 @@
           "optionID" : 71,
           "optionName" : "Additional Hobbit Militia",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -215,6 +241,7 @@
         "unitCost" : 4.0,
         "unitID" : 42,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hobbit Archer",
@@ -224,6 +251,7 @@
           "optionID" : 56,
           "optionName" : "Upgrade to Tookish Hunters",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -231,6 +259,7 @@
           "optionID" : 61,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -238,6 +267,7 @@
           "optionID" : 72,
           "optionName" : "Additional Hobbit Archer",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -245,6 +275,7 @@
         "unitCost" : 5.0,
         "unitID" : 43,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hobbit Shirriff",
@@ -254,6 +285,7 @@
           "optionID" : 73,
           "optionName" : "Additional Hobbit Shirriff",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -261,6 +293,7 @@
         "unitCost" : 5.0,
         "unitID" : 44,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

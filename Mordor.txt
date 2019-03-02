@@ -11,6 +11,7 @@
           "optionID" : 542,
           "optionName" : "Armoured Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -18,6 +19,7 @@
           "optionID" : 549,
           "optionName" : "Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -25,6 +27,7 @@
           "optionID" : 555,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -32,6 +35,7 @@
           "optionID" : 557,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -39,6 +43,7 @@
         "unitCost" : 120.0,
         "unitID" : 520,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Dark Marshal",
@@ -48,6 +53,7 @@
           "optionID" : 543,
           "optionName" : "Armoured Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -55,6 +61,7 @@
           "optionID" : 550,
           "optionName" : "Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -62,6 +69,7 @@
           "optionID" : 556,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -69,6 +77,7 @@
           "optionID" : 558,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -76,6 +85,7 @@
         "unitCost" : 120.0,
         "unitID" : 521,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Shadow Lord",
@@ -85,6 +95,7 @@
           "optionID" : 544,
           "optionName" : "Armoured Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 70.0,
@@ -92,6 +103,7 @@
           "optionID" : 545,
           "optionName" : "Armoured Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -99,6 +111,7 @@
           "optionID" : 551,
           "optionName" : "Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -106,6 +119,7 @@
           "optionID" : 559,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -113,6 +127,7 @@
         "unitCost" : 120.0,
         "unitID" : 522,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Undying",
@@ -122,6 +137,7 @@
           "optionID" : 546,
           "optionName" : "Armoured Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -129,6 +145,7 @@
           "optionID" : 552,
           "optionName" : "Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -136,6 +153,7 @@
           "optionID" : 560,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -143,6 +161,7 @@
         "unitCost" : 120.0,
         "unitID" : 523,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Knight of Umbar",
@@ -152,6 +171,7 @@
           "optionID" : 547,
           "optionName" : "Armoured Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -159,6 +179,7 @@
           "optionID" : 553,
           "optionName" : "Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -166,6 +187,7 @@
           "optionID" : 561,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -173,6 +195,7 @@
         "unitCost" : 120.0,
         "unitID" : 524,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Betrayer",
@@ -182,6 +205,7 @@
           "optionID" : 548,
           "optionName" : "Armoured Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -189,6 +213,7 @@
           "optionID" : 554,
           "optionName" : "Fell Beast",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -196,6 +221,7 @@
           "optionID" : 562,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -203,6 +229,7 @@
         "unitCost" : 120.0,
         "unitID" : 525,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gothmog, Lieutenant of Sauron",
@@ -212,6 +239,7 @@
           "optionID" : 563,
           "optionName" : "Warg",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -219,6 +247,7 @@
           "optionID" : 564,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -226,6 +255,7 @@
         "unitCost" : 130.0,
         "unitID" : 526,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "The Mouth of Sauron",
@@ -235,6 +265,7 @@
           "optionID" : 565,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -242,6 +273,7 @@
         "unitCost" : 70.0,
         "unitID" : 527,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Shagrat, Captain of Cirith Ungol",
@@ -251,6 +283,7 @@
           "optionID" : 566,
           "optionName" : "Shield of Cirith Ungol",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -258,6 +291,7 @@
           "optionID" : 567,
           "optionName" : "Heavy Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -265,6 +299,7 @@
         "unitCost" : 100.0,
         "unitID" : 528,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gorbag, Orc Captain",
@@ -274,6 +309,7 @@
           "optionID" : 569,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -281,6 +317,7 @@
         "unitCost" : 55.0,
         "unitID" : 529,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grishnakh, Orc Captain",
@@ -290,6 +327,7 @@
           "optionID" : 570,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -297,6 +335,7 @@
         "unitCost" : 50.0,
         "unitID" : 530,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Kardush The Firecaller",
@@ -306,6 +345,7 @@
         "unitCost" : 60.0,
         "unitID" : 531,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morannon Orc Captain",
@@ -315,6 +355,7 @@
           "optionID" : 571,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -322,6 +363,7 @@
           "optionID" : 572,
           "optionName" : "Two-handed Weapon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -329,6 +371,7 @@
         "unitCost" : 50.0,
         "unitID" : 532,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Captain of the Black Guard",
@@ -338,6 +381,7 @@
         "unitCost" : 65.0,
         "unitID" : 533,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Black Guard Drummer",
@@ -347,6 +391,7 @@
         "unitCost" : 35.0,
         "unitID" : 535,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mordor Uruk-Hai Captain",
@@ -356,6 +401,7 @@
           "optionID" : 573,
           "optionName" : "Two-handed Weapon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -363,6 +409,7 @@
           "optionID" : 574,
           "optionName" : "Orc Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -370,6 +417,7 @@
           "optionID" : 575,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -377,6 +425,7 @@
         "unitCost" : 55.0,
         "unitID" : 536,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Great Beast of Gorgoroth",
@@ -386,6 +435,7 @@
         "unitCost" : 150.0,
         "unitID" : 537,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morgul Stalker",
@@ -395,6 +445,7 @@
           "optionID" : 576,
           "optionName" : "Additional Morgul Stalker",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -402,6 +453,7 @@
         "unitCost" : 10.0,
         "unitID" : 538,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morannon Orc",
@@ -411,6 +463,7 @@
           "optionID" : 577,
           "optionName" : "Additional Morannon Orc",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -418,6 +471,7 @@
           "optionID" : 580,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -425,6 +479,7 @@
           "optionID" : 581,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -432,6 +487,7 @@
           "optionID" : 582,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -439,6 +495,7 @@
         "unitCost" : 7.0,
         "unitID" : 539,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Black Guard of Barad-Dur",
@@ -448,6 +505,7 @@
           "optionID" : 578,
           "optionName" : "Additional Black Guard of Barad-Dur",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -455,6 +513,7 @@
           "optionID" : 583,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -462,6 +521,7 @@
         "unitCost" : 12.0,
         "unitID" : 540,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mordor Uruk-Hai",
@@ -471,6 +531,7 @@
           "optionID" : 579,
           "optionName" : "Additional Mordor Uruk-Hai",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -478,6 +539,7 @@
           "optionID" : 584,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -485,6 +547,7 @@
           "optionID" : 585,
           "optionName" : "Orc Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -492,6 +555,7 @@
           "optionID" : 586,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -499,6 +563,7 @@
           "optionID" : 587,
           "optionName" : "Two-handed Mace",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -506,6 +571,7 @@
         "unitCost" : 8.0,
         "unitID" : 541,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

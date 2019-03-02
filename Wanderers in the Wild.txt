@@ -11,6 +11,7 @@
         "unitCost" : 140.0,
         "unitID" : 407,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Tom Bombadil",
@@ -20,6 +21,7 @@
         "unitCost" : 160.0,
         "unitID" : 408,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Goldberry",
@@ -29,6 +31,7 @@
         "unitCost" : 140.0,
         "unitID" : 409,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

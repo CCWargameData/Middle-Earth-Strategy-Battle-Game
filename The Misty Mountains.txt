@@ -11,6 +11,7 @@
         "unitCost" : 150.0,
         "unitID" : 367,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Great Eagle",
@@ -20,6 +21,7 @@
         "unitCost" : 100.0,
         "unitID" : 368,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

@@ -11,6 +11,7 @@
         "unitCost" : 80.0,
         "unitID" : 201,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Malbeth the Seer",
@@ -20,6 +21,7 @@
         "unitCost" : 70.0,
         "unitID" : 202,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Captain of Arnor",
@@ -29,6 +31,7 @@
           "optionID" : 206,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -36,6 +39,7 @@
         "unitCost" : 55.0,
         "unitID" : 203,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Warrior of Arnor",
@@ -45,6 +49,7 @@
           "optionID" : 207,
           "optionName" : "Additional Warrior of Arnor",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -52,6 +57,7 @@
           "optionID" : 209,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -59,6 +65,7 @@
         "unitCost" : 8.0,
         "unitID" : 204,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Ranger of Arnor",
@@ -68,6 +75,7 @@
           "optionID" : 208,
           "optionName" : "Additional Ranger of Arnor",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -75,6 +83,7 @@
           "optionID" : 210,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -82,6 +91,7 @@
         "unitCost" : 8.0,
         "unitID" : 205,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

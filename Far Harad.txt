@@ -11,6 +11,7 @@
           "optionID" : 765,
           "optionName" : "War Camel",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -18,6 +19,7 @@
           "optionID" : 766,
           "optionName" : "Blowpipe with Poisoned Darts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -25,6 +27,7 @@
           "optionID" : 767,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -32,6 +35,7 @@
           "optionID" : 768,
           "optionName" : "War Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -39,6 +43,7 @@
         "unitCost" : 70.0,
         "unitID" : 759,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mahud Tribesmaster",
@@ -48,6 +53,7 @@
           "optionID" : 769,
           "optionName" : "War Camel",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -55,6 +61,7 @@
           "optionID" : 770,
           "optionName" : "Blowpipe with Poisoned Darts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -62,6 +69,7 @@
           "optionID" : 771,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -69,6 +77,7 @@
           "optionID" : 772,
           "optionName" : "War Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -76,6 +85,7 @@
         "unitCost" : 50.0,
         "unitID" : 760,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "War Mumak of Far Harad",
@@ -85,6 +95,7 @@
           "optionID" : 773,
           "optionName" : "Gnarled Hide",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -92,6 +103,7 @@
           "optionID" : 774,
           "optionName" : "Rocks",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -99,6 +111,7 @@
           "optionID" : 775,
           "optionName" : "Sigils of Defiance",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 20.0,
@@ -106,6 +119,7 @@
           "optionID" : 776,
           "optionName" : "Tusk Weapons",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -113,6 +127,7 @@
           "optionID" : 777,
           "optionName" : "Foul Temperament",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -120,6 +135,7 @@
           "optionID" : 778,
           "optionName" : "Rappelling Lines",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -127,6 +143,7 @@
         "unitCost" : 300.0,
         "unitID" : 761,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mahud Warrior",
@@ -136,6 +153,7 @@
           "optionID" : 779,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -143,6 +161,7 @@
           "optionID" : 780,
           "optionName" : "Blowpipe with Poisioned Darts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -150,6 +169,7 @@
           "optionID" : 781,
           "optionName" : "Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 8.0,
@@ -157,6 +177,7 @@
           "optionID" : 782,
           "optionName" : "Additional Mahud Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -164,6 +185,7 @@
         "unitCost" : 8.0,
         "unitID" : 762,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Mahud Raider",
@@ -173,6 +195,7 @@
           "optionID" : 783,
           "optionName" : "Additional Mahud Raider",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -180,6 +203,7 @@
           "optionID" : 785,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -187,6 +211,7 @@
           "optionID" : 786,
           "optionName" : "Blowpipe with Poisioned Darts",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -194,6 +219,7 @@
           "optionID" : 787,
           "optionName" : "War Spear",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -201,6 +227,7 @@
         "unitCost" : 17.0,
         "unitID" : 763,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Half Troll",
@@ -210,6 +237,7 @@
           "optionID" : 784,
           "optionName" : "Additional Half Troll",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -217,6 +245,7 @@
           "optionID" : 788,
           "optionName" : "Two-handed Club",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -224,6 +253,7 @@
         "unitCost" : 23.0,
         "unitID" : 764,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

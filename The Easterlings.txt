@@ -11,6 +11,7 @@
           "optionID" : 685,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -18,6 +19,7 @@
         "unitCost" : 130.0,
         "unitID" : 679,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Easterling, Dragon Knight",
@@ -27,6 +29,7 @@
           "optionID" : 686,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -34,6 +37,7 @@
         "unitCost" : 65.0,
         "unitID" : 680,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Easterling Captain",
@@ -43,6 +47,7 @@
           "optionID" : 687,
           "optionName" : "Armoured Horse & Sword",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -50,6 +55,7 @@
           "optionID" : 688,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -57,6 +63,7 @@
           "optionID" : 689,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -64,6 +71,7 @@
         "unitCost" : 50.0,
         "unitID" : 681,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Easterling War Priest",
@@ -73,6 +81,7 @@
           "optionID" : 690,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -80,6 +89,7 @@
         "unitCost" : 60.0,
         "unitID" : 682,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Easterling Warrior",
@@ -89,6 +99,7 @@
           "optionID" : 691,
           "optionName" : "Additional Easterling Warrior",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -96,6 +107,7 @@
           "optionID" : 693,
           "optionName" : "Upgrade to Black Dragon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -103,6 +115,7 @@
           "optionID" : 695,
           "optionName" : "Pike",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -110,6 +123,7 @@
           "optionID" : 696,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -117,6 +131,7 @@
           "optionID" : 697,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -124,6 +139,7 @@
         "unitCost" : 7.0,
         "unitID" : 683,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Easterling Kataphrakts",
@@ -133,6 +149,7 @@
           "optionID" : 692,
           "optionName" : "Additional Easterling Kataphract",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -140,6 +157,7 @@
           "optionID" : 694,
           "optionName" : "Upgrade to Black Dragon",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -147,6 +165,7 @@
           "optionID" : 698,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -154,6 +173,7 @@
           "optionID" : 699,
           "optionName" : "Easterling Wardrum",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -161,6 +181,7 @@
         "unitCost" : 14.0,
         "unitID" : 684,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

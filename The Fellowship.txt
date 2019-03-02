@@ -11,6 +11,7 @@
           "optionID" : 12,
           "optionName" : "Mithril Coat",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -18,6 +19,7 @@
           "optionID" : 13,
           "optionName" : "Sting",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -25,6 +27,7 @@
           "optionID" : 14,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -32,6 +35,7 @@
         "unitCost" : 60.0,
         "unitID" : 1,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Samwise Gamgee",
@@ -41,6 +45,7 @@
           "optionID" : 15,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -48,6 +53,7 @@
         "unitCost" : 40.0,
         "unitID" : 2,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Meriadoc Brandybuck",
@@ -57,6 +63,7 @@
           "optionID" : 16,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -64,6 +71,7 @@
         "unitCost" : 10.0,
         "unitID" : 3,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Peregrin Took",
@@ -73,6 +81,7 @@
           "optionID" : 17,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -80,6 +89,7 @@
         "unitCost" : 10.0,
         "unitID" : 4,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gandalf The Grey",
@@ -89,6 +99,7 @@
           "optionID" : 18,
           "optionName" : "Cart",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -96,6 +107,7 @@
           "optionID" : 19,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -103,6 +115,7 @@
         "unitCost" : 170.0,
         "unitID" : 5,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Aragorn - Strider",
@@ -112,6 +125,7 @@
           "optionID" : 20,
           "optionName" : "Anduril, Flame of the West",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -119,6 +133,7 @@
           "optionID" : 21,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -126,6 +141,7 @@
           "optionID" : 22,
           "optionName" : "Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -133,6 +149,7 @@
           "optionID" : 23,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -140,6 +157,7 @@
           "optionID" : 24,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -147,6 +165,7 @@
         "unitCost" : 160.0,
         "unitID" : 6,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Boromir of Gondor",
@@ -156,6 +175,7 @@
           "optionID" : 25,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -163,6 +183,7 @@
           "optionID" : 28,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -170,6 +191,7 @@
           "optionID" : 29,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -177,6 +199,7 @@
         "unitCost" : 95.0,
         "unitID" : 7,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Legolas Greenleaf",
@@ -186,6 +209,7 @@
           "optionID" : 26,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -193,6 +217,7 @@
           "optionID" : 30,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -200,6 +225,7 @@
           "optionID" : 31,
           "optionName" : "Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -207,6 +233,7 @@
         "unitCost" : 100.0,
         "unitID" : 8,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gimli Son of Gloin",
@@ -216,6 +243,7 @@
           "optionID" : 27,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -223,6 +251,7 @@
         "unitCost" : 100.0,
         "unitID" : 9,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Bill the Pony",
@@ -232,6 +261,7 @@
         "unitCost" : 25.0,
         "unitID" : 10,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Smeagol",
@@ -241,6 +271,7 @@
         "unitCost" : 30.0,
         "unitID" : 11,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,

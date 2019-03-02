@@ -11,6 +11,7 @@
           "optionID" : 229,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -18,6 +19,7 @@
           "optionID" : 230,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -25,6 +27,7 @@
           "optionID" : 231,
           "optionName" : "Heavy Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -32,6 +35,7 @@
           "optionID" : 232,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -39,6 +43,7 @@
         "unitCost" : 75.0,
         "unitID" : 211,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Theodred, Heir of Rohan",
@@ -48,6 +53,7 @@
           "optionID" : 233,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -55,6 +61,7 @@
           "optionID" : 234,
           "optionName" : "Throwing Spears",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 10.0,
@@ -62,6 +69,7 @@
           "optionID" : 235,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -69,6 +77,7 @@
         "unitCost" : 80.0,
         "unitID" : 212,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Eomer, Marshal of the Riddermark",
@@ -78,6 +87,7 @@
           "optionID" : 236,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 15.0,
@@ -85,6 +95,7 @@
           "optionID" : 237,
           "optionName" : "Armoured Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -92,6 +103,7 @@
           "optionID" : 238,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -99,6 +111,7 @@
           "optionID" : 239,
           "optionName" : "Throwing Spears",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -106,6 +119,7 @@
         "unitCost" : 100.0,
         "unitID" : 213,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Eowyn, Shield Maiden of Rohan",
@@ -115,6 +129,7 @@
           "optionID" : 240,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -122,6 +137,7 @@
           "optionID" : 241,
           "optionName" : "Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -129,6 +145,7 @@
           "optionID" : 242,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -136,6 +153,7 @@
           "optionID" : 243,
           "optionName" : "Throwing Spears",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -143,6 +161,7 @@
         "unitCost" : 40.0,
         "unitID" : 214,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Meriadoc Brandybuck, Knight of the Mark",
@@ -152,6 +171,7 @@
           "optionID" : 244,
           "optionName" : "Elven Cloak",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -159,6 +179,7 @@
           "optionID" : 245,
           "optionName" : "Pony",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -166,6 +187,7 @@
           "optionID" : 246,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -173,6 +195,7 @@
         "unitCost" : 25.0,
         "unitID" : 215,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Erkenbrand, Captain of Rohan",
@@ -182,6 +205,7 @@
           "optionID" : 247,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -189,6 +213,7 @@
         "unitCost" : 75.0,
         "unitID" : 216,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Gamling, Captain of Rohan",
@@ -198,6 +223,7 @@
           "optionID" : 252,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 50.0,
@@ -205,6 +231,7 @@
           "optionID" : 253,
           "optionName" : "Royal Standard of Rohan",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -212,6 +239,7 @@
         "unitCost" : 55.0,
         "unitID" : 217,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hama, Captain of Rohan",
@@ -221,6 +249,7 @@
           "optionID" : 251,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -228,6 +257,7 @@
           "optionID" : 254,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -235,6 +265,7 @@
         "unitCost" : 55.0,
         "unitID" : 218,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Grimbold of Grimslade",
@@ -244,6 +275,7 @@
         "unitCost" : 60.0,
         "unitID" : 219,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Eorl the Young",
@@ -253,6 +285,7 @@
         "unitCost" : 115.0,
         "unitID" : 220,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "King's Huntsman",
@@ -262,6 +295,7 @@
         "unitCost" : 50.0,
         "unitID" : 221,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Captain of Rohan",
@@ -271,6 +305,7 @@
           "optionID" : 255,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -278,6 +313,7 @@
           "optionID" : 256,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -285,6 +321,7 @@
           "optionID" : 257,
           "optionName" : "Heavy Armour",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -292,6 +329,7 @@
           "optionID" : 258,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -299,6 +337,7 @@
           "optionID" : 259,
           "optionName" : "Throwing Spears",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -306,6 +345,7 @@
         "unitCost" : 45.0,
         "unitID" : 222,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Warrior of Rohan",
@@ -315,6 +355,7 @@
           "optionID" : 249,
           "optionName" : "Upgrade to Helmingas",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 6.0,
@@ -322,6 +363,7 @@
           "optionID" : 260,
           "optionName" : "Additional Warrior of Rohan",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -329,6 +371,7 @@
           "optionID" : 266,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -336,6 +379,7 @@
           "optionID" : 267,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -343,6 +387,7 @@
           "optionID" : 268,
           "optionName" : "Throwing Spears",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -350,6 +395,7 @@
           "optionID" : 269,
           "optionName" : "Bow",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 1.0,
@@ -357,6 +403,7 @@
           "optionID" : 270,
           "optionName" : "Shield",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -364,6 +411,7 @@
         "unitCost" : 6.0,
         "unitID" : 224,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rider of Rohan",
@@ -373,6 +421,7 @@
           "optionID" : 248,
           "optionName" : "Upgrade to Westfold Redshields",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 14.0,
@@ -380,6 +429,7 @@
           "optionID" : 261,
           "optionName" : "Additional Rider of Rohan",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 30.0,
@@ -387,6 +437,7 @@
           "optionID" : 271,
           "optionName" : "War Horn",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -394,6 +445,7 @@
           "optionID" : 272,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -401,6 +453,7 @@
           "optionID" : 273,
           "optionName" : "Throwing Spears",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -408,6 +461,7 @@
         "unitCost" : 14.0,
         "unitID" : 225,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rohan Royal Guard",
@@ -417,6 +471,7 @@
           "optionID" : 264,
           "optionName" : "Additional Rohan Royal Guard",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 25.0,
@@ -424,6 +479,7 @@
           "optionID" : 274,
           "optionName" : "Banner",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -431,6 +487,7 @@
           "optionID" : 275,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 2.0,
@@ -438,6 +495,7 @@
           "optionID" : 276,
           "optionName" : "Throwing Spears",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -445,6 +503,7 @@
         "unitCost" : 10.0,
         "unitID" : 226,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Rohan Outrider",
@@ -454,6 +513,7 @@
           "optionID" : 263,
           "optionName" : "Additional Rohan Outrider",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         }, {
           "optionCost" : 5.0,
@@ -461,6 +521,7 @@
           "optionID" : 277,
           "optionName" : "Horse",
           "autoAddDictionary" : { },
+          "modelsAdded" : 0,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -468,6 +529,7 @@
         "unitCost" : 8.0,
         "unitID" : 227,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Son of Eorl",
@@ -477,6 +539,7 @@
           "optionID" : 265,
           "optionName" : "Additional Son of Eorl",
           "autoAddDictionary" : { },
+          "modelsAdded" : 1,
           "listOfCurrencies" : { }
         } ],
         "listOfRestrictions" : null,
@@ -484,6 +547,7 @@
         "unitCost" : 20.0,
         "unitID" : 228,
         "autoAddDictionary" : { },
+        "startingModels" : 1,
         "listOfCurrencies" : { }
       } ],
       "listOfEquipmentOptions" : null,
